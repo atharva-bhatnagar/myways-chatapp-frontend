@@ -1,8 +1,8 @@
 # myways-frontend-chatapp
 
-### backen repo --> https://github.com/atharva-bhatnagar/myways-chatapp-backend
+### backend repo --> https://github.com/atharva-bhatnagar/myways-chatapp-backend
 
-### Deployer frontend --> https://myways-chatapp-frontend.vercel.app/login
+### Deployed frontend --> https://myways-chatapp-frontend.vercel.app/login
 
 ## To setup the project on local env--> 
 1) clone the project  --> git clone https://github.com/atharva-bhatnagar/myways-chatapp-frontend.git
